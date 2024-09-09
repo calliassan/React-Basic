@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  color: red;
+}
+.error {
+  color: pink;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px;
+  color: black;
+  margin: 5px;
 }
 
 .App-logo {
@@ -35,4 +46,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Negative {
+  color: red;
+}
+.Positive {
+  color: green;
 }
